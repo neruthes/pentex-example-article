@@ -9,6 +9,6 @@
   "author": "Neruthes",
   "license": "MIT",
   "dependencies": {
-    "pentex-example-article": "^1.0.2"
+    "pentex-example-article": "^1.0.7"
   }
 }
