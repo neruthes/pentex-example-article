@@ -35,6 +35,8 @@ H=pentex-example-article.H.tex pentex README.md
 
 Read the [PDF artifact](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/pentex-example-article/README.md.pdf--6c87c6bfad2d6d1cbec93428a74f1009.pdf).
 
+If you are already reading the PDF artifact, you may want to see the [GitHub repo page](https://github.com/neruthes/pentex-example-article).
+
 
 
 ## Copyright
