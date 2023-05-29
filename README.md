@@ -17,6 +17,8 @@ This repository is an example package for the [PenTeX](https://github.com/neruth
 
 ## Usage
 
+Install `pentex` before proceeding.
+
 ### Normal Building
 
 ```sh
